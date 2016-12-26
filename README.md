@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# test_app2
+rails 101_learning git
+>>>>>>> 074f164bdde1cb8a3d5d6403d780dc69f69e39b8
